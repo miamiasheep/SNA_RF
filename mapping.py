@@ -11,7 +11,7 @@ for i in range(len(G.nodes())):
 		print i
 	result[int(G.nodes()[i])] = i
    
-with open('mapping.pickle','wb') as f:
+with open('data/mapping.pickle','wb') as f:
 	pickle.dump(result,f)
     
 	
