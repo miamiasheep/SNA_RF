@@ -8,7 +8,7 @@ National Taiwan University
 Can be downloaded at
 www.csie.ntu.edu.tw/~r01922164/SNA_data <br/>
 pre_nodes_profile_sorted: The information of each node<br/>
-train_edges.txt : Training data<br/>
+train_edges.txt : Training data <br/>
 test_nodes.txt: The target users that I have to predict their friends<br/>
 
 # Features used:
